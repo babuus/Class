@@ -1,3 +1,1 @@
-# Class
-
-## Machine Learning class
+# Machine Learning
